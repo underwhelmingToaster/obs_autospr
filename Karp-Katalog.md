@@ -1,7 +1,7 @@
 - [[SAT]]
 - [[3SAT]]
 - [[Vertex-Coloring]]
-- [[Clique-Colver]]
+- [[Clique-Cover]]
 - [[Exact-Cover]]
 - [[3D-Matching]]
 - [[Subset-Sum]]
