@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "5e22bf67e624431f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/clique solution.md"
+              }
+            }
+          },
+          {
             "id": "a1052b382ece2d24",
             "type": "leaf",
             "state": {
@@ -55,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "k-Clique.md",
+                "file": "Excalidraw/clique solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "k-Clique.md",
+                "file": "Excalidraw/clique solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,16 +172,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "k-Clique.md"
+                "file": "Excalidraw/clique solution.md"
               }
             }
+          },
+          {
+            "id": "7c0fc22d49ca638b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,10 +203,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "75a6c1347431173f",
+  "active": "804d8249eda813ff",
   "lastOpenFiles": [
-    "Karp-Katalog.md",
+    "New Text Document.txt",
+    "Excalidraw/clique.md",
+    "Excalidraw/clique solution.md",
     "k-Clique.md",
+    "Karp-Katalog.md",
     "katalog/3SAT.md",
     "katalog/SAT.md",
     "katalog/Vertex-Cover.md",
