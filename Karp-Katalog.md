@@ -1,3 +1,4 @@
+![[karp-katalog.png]]
 - [[SAT]]
 - [[3SAT]]
 - [[katalog/Vertex-Coloring]]
