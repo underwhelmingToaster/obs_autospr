@@ -1,6 +1,6 @@
 - [[SAT]]
 - [[3SAT]]
-- [[Vertex-Coloring]]
+- [[katalog/Vertex-Coloring]]
 - [[Clique-Cover]]
 - [[Exact-Cover]]
 - [[3D-Matching]]
