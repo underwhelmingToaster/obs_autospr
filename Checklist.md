@@ -1,1 +1,1 @@
-- [[Alphabt]]
+- [[Alphabet]]
