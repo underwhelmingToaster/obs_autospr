@@ -1,0 +1,1 @@
+Ein wort ist eine endliche Aneinanderkettung von Zeichen in einem [[Alphabet]]. Wörter sind Element einer [[Sprache]].

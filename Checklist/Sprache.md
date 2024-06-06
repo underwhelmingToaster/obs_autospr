@@ -1,0 +1,1 @@
+Eine Sprache, oft mit $L$ bezeichnet, beinhaltet alle [[w]]
