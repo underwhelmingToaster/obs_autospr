@@ -1,4 +1,6 @@
 - [[Alphabet]]
 - [[Wort]]
 - [[leeres Wort]]
+- [[Sprache]]
+- [[regulär]]
 - 
